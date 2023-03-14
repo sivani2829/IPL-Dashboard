@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.list-container {
+  border: 2px solid white;
+  background-color: transparent;
+  display: flex;
+  border-radius: 9px;
+  margin: 10px;
+  width: 500px;
+  margin-left: 10px;
+}
+.img-url {
+  width: 200px;
+  height: 190px;
+  margin: 10px;
+}
+.team-name {
+  margin-top: 20px;
+  color: white;
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: none;
+}
+li {
+  text-decoration: none;
+}

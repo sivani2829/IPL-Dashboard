@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.team-img {
+  width: 200px;
+  height: 200px;
+}
+.competing {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.date {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.venue1 {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.res1 {
+  color: white;
+  font-size: 20px;
+  font-weight: 600;
+}
+.game-details {
+  margin: 20px;
+}
